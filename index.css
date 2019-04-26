@@ -29,30 +29,30 @@ body{
 }
 
 #i1{
-  background-image: url("./img/1.png");
+  background-image: url("/img/1.png");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i2{
-  background-image: url("./img/2.png");
+  background-image: url("/img/2.png");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i3{
-  background-image: url("./img/3.png");
+  background-image: url("/img/3.png");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i4{
-  background-image: url("./img/4.png");
+  background-image: url("/img/4.png");
     background-repeat: no-repeat;
   background-size: contain;
 }
 #i5{
-  background-image: url("./img/5.png");
+  background-image: url("/img/5.png");
     background-repeat: no-repeat;
   background-size: contain;
 }
