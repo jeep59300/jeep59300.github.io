@@ -41,13 +41,13 @@ h1{
 }
 
 #i1:hover{
-    background-image: url("phoyos/1photo.jpg");
+    background-image: url("img2/1photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i1:touchstart{
-    background-image: url("phoyos/1photo.jpg");
+    background-image: url("img2/1photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
@@ -59,14 +59,14 @@ h1{
 }
 
 #i2:hover{
-    background-image: url("phoyos/2photo.jpg");
+    background-image: url("img2/2photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 
 #i2:touchstart{
-    background-image: url("phoyos/2photo.jpg");
+    background-image: url("img2/2photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
@@ -79,13 +79,13 @@ h1{
 
 
 #i3:hover{
-    background-image: url("phoyos/3photo.jpg");
+    background-image: url("img2/3photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i3:touchstart{
-    background-image: url("phoyos/3photo.jpg");
+    background-image: url("img2/3photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
@@ -97,13 +97,13 @@ h1{
 }
 
 #i4:hover{
-    background-image: url("phoyos/4photo.jpg");
+    background-image: url("img2/4photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i4:touchstart{
-    background-image: url("phoyos/4photo.jpg");
+    background-image: url("img2/4photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
@@ -115,13 +115,13 @@ h1{
 }
 
 #i5:hover{
-    background-image: url("phoyos/5photo.jpg");
+    background-image: url("img2/5photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i5:touchstart{
-    background-image: url("phoyos/5photo.jpg");
+    background-image: url("img2/5photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
