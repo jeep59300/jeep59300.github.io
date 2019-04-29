@@ -1,0 +1,12 @@
+#mbape{
+	cursor:pointer;
+	opacity: 0;
+	transition:opacity .3s;
+}
+
+#hokey{
+	cursor:pointer;
+		transition:opacity .3s;
+
+}
+
