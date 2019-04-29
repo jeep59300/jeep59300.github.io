@@ -45,12 +45,12 @@ h1{
     background-repeat: no-repeat;
   background-size: contain;
 }
-
+/*
 #i1:touchstart{
     background-image: url("photos/1photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
-}
+}*/
 
 #i2{
   background-image: url("img/2.png");
@@ -65,11 +65,11 @@ h1{
 }
 
 
-#i2:touchstart{
+/*#i2:touchstart{
     background-image: url("photos/2photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
-}
+}*/
 
 #i3{
   background-image: url("img/3.png");
@@ -83,12 +83,12 @@ h1{
     background-repeat: no-repeat;
   background-size: contain;
 }
-
+/*
 #i3:touchstart{
     background-image: url("photos/3photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
-}
+}*/
 
 #i4{
   background-image: url("img/4.png");
@@ -101,12 +101,12 @@ h1{
     background-repeat: no-repeat;
   background-size: contain;
 }
-
+/*
 #i4:touchstart{
     background-image: url("photos/4photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
-}
+}*/
 
 #i5{
   background-image: url("img/5.png");
@@ -119,12 +119,12 @@ h1{
     background-repeat: no-repeat;
   background-size: contain;
 }
-
+/*
 #i5:touchstart{
     background-image: url("photos/5photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
-}
+}*/
 /*
 .project:hover{
 	opacity:.5;
