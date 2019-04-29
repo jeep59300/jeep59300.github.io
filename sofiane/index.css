@@ -41,7 +41,7 @@ h1{
 }
 
 #i1:hover{
-    background-image: url("sofiane/photos/1photo.jpg");
+    background-image: url("/sofiane/photos/1photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
@@ -79,7 +79,7 @@ h1{
 
 
 #i3:hover{
-    background-image: url("sofiane/photos/3photo.jpg");
+    background-image: url("/sofiane/photos/3photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
@@ -97,7 +97,7 @@ h1{
 }
 
 #i4:hover{
-    background-image: url("sofiane/photos/4photo.jpg");
+    background-image: url("/sofiane/photos/4photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
@@ -115,7 +115,7 @@ h1{
 }
 
 #i5:hover{
-    background-image: url("sofiane/photos/5photo.jpg");
+    background-image: url("/sofiane/photos/5photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
