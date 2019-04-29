@@ -35,34 +35,97 @@ h1{
 }
 
 #i1{
-  background-image: url("/img/1.png");
+  background-image: url("img/1.png");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#i1:hover{
+    background-image: url("phoyos/1photo.jpg");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#i1:touchstart{
+    background-image: url("phoyos/1photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i2{
-  background-image: url("/img/2.png");
+  background-image: url("img/2.png");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#i2:hover{
+    background-image: url("phoyos/2photo.jpg");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+#i2:touchstart{
+    background-image: url("phoyos/2photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i3{
-  background-image: url("/img/3.png");
+  background-image: url("img/3.png");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+#i3:hover{
+    background-image: url("phoyos/3photo.jpg");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#i3:touchstart{
+    background-image: url("phoyos/3photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i4{
-  background-image: url("/img/4.png");
-    background-repeat: no-repeat;
-  background-size: contain;
-}
-#i5{
-  background-image: url("/img/5.png");
+  background-image: url("img/4.png");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
+#i4:hover{
+    background-image: url("phoyos/4photo.jpg");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#i4:touchstart{
+    background-image: url("phoyos/4photo.jpg");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#i5{
+  background-image: url("img/5.png");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#i5:hover{
+    background-image: url("phoyos/5photo.jpg");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#i5:touchstart{
+    background-image: url("phoyos/5photo.jpg");
+    background-repeat: no-repeat;
+  background-size: contain;
+}
+/*
 .project:hover{
 	opacity:.5;
-}
+}*/
