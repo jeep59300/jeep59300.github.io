@@ -97,7 +97,7 @@ h1{
 }
 
 #i4:hover{
-    background-image: url("sofiane/photos/4photo.jpg");
+    background-image: url("photos/4photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
