@@ -53,13 +53,13 @@ h1{
 }*/
 
 #i2{
-  background-image: url("./img/2.png");
+  background-image: url("/img/2.png");
     background-repeat: no-repeat;
   background-size: contain;
 }
 
 #i2:hover{
-    background-image: url("sofiane/photos/2photo.jpg");
+    background-image: url("/sofiane/photos/2photo.jpg");
     background-repeat: no-repeat;
   background-size: contain;
 }
